@@ -15,7 +15,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score
 from scipy.stats import ttest_ind
 # Load cleaned longitudinal data
-df = pd.read_csv('/Users/terahskillings/Downloads/CleanACL2.csv')
+df = pd.read_csv('CleanACL2.csv')
 
 
 
