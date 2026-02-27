@@ -33,9 +33,3 @@ python Model_Template_SHELL.py
 This will execute the Logistic Regression pipeline and output a logic-check AUC score.
 
 ---
-
-### **Final Tip**
-
-You don't need to provide your full proposal unless the teacher specifically asks for a PDF upload. This README covers the "What, Why, and How" perfectly.
-
-**Would you like me to help you draft the final "Conclusion" slide for your presentation using these specific AUC and Torque numbers?**
