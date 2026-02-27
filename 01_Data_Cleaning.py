@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 # Load dataset
-df = pd.read_csv('/Users/terahskillings/Downloads/ACL Master Longitudinal.csv')
+df = pd.read_csv('ACL Master Longitudinal.csv')
 
 
 
