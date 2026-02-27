@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 # Load the surgical-normalized dataset
-df = pd.read_csv('/Users/terahskillings/Downloads/CleanACL.csv')
+df = pd.read_csv('CleanACL.csv')
 
 
 
